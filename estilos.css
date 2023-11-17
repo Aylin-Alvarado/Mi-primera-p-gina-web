@@ -1,0 +1,53 @@
+body {
+    background-color:rgb(98, 99, 175);
+    color:rgb(3, 254, 233);
+    font-family: 'Oswald', sans-serif;
+
+    
+}
+/*Asi se pone un comentario*/
+h1, p {
+    color:rgb(255, 255, 255);
+    margin-left: 450px;
+
+}
+h3{
+    color:rgb(8, 0, 255);
+    margin-left: 470px; 
+
+}
+
+ol, ul, label {
+    margin-left:470px
+}
+
+
+.img1 {
+    width: 380px;
+    height: 300px;
+    border-style: dotted;
+    border-width: 7px;
+    border-color:rgb(255, 255, 255);
+    margin-left: 320px;
+    margin-bottom: 20px;
+}
+
+.img2{
+    border-style:dotted; 
+    border-width: 7px ;
+    border-color:white; 
+    width:500px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left:270px;
+}
+
+footer{
+    background-color:rgb(32, 100, 183);
+    color:rgb(0, 0, 0);
+
+}
+small{
+    color:white;
+    padding-bottom: 60px;
+}
